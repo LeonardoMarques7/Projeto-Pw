@@ -1,6 +1,6 @@
 # Linguagens
 
-<style color="red">Linguagens de programação</style>
+Linguagens de programação
 <ul>
 <li>CSS</li>
 <li>HTML</li>
